@@ -1,8 +1,9 @@
+[![MasterHead](https://wallpaperaccess.com/full/4910984.gif)](https://rishavchanda.io) 
 <h1 align="center">Hi 👋, I'm Muhammad Rifki</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+<h3 align="center">A passionate FullStack Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifki012&label=Profile%20views&color=0e75b6&style=flat" alt="rifki012" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 - 🌱 I’m currently learning **Dart**
 
 - 📫 How to reach me **rifki3124@gmail.com**
